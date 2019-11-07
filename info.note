@@ -1,0 +1,18 @@
+This is an ecommerce design for a furniture company. This project has multiple pages, the home page,
+the products page, single product page, store page.
+The home page has of course the navbar hamburger on small page, on bigger screen, it has also the search icon,
+the cart icon.
+Once the cart icon is clicked, it will take you to the store page. The store page do not have js at the moment,
+it will only display a dummy hard-coded number of item on the cart.
+As you scroll on the home page, the image moves a bit slower than the text (paralax effect)
+Like the rest of the project, this project is going to be responsive. 
+After the header section on the home page
+The product category section presents the categories of all the product we are offering.
+Each product category should contain products that fall into that set, once clicked, you should be redirected to 
+the products page. 
+
+In the products page, we will be reusing quite a bit from our home page. We have the navbar, but the active link is 
+now Products. The products page has some filters, shop by category, price range, search by name, search colors. 
+
+Try iconfinder to get free logos. Note the html should have a comment which is an attribution to the icon used from 
+iconfinder. 
